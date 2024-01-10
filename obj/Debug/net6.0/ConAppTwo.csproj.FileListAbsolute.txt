@@ -12,3 +12,4 @@ D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\refint\ConAppTwo.dll
 D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.pdb
 D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.genruntimeconfig.cache
 D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ref\ConAppTwo.dll
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.sourcelink.json
