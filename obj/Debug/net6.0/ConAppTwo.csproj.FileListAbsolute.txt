@@ -1,0 +1,14 @@
+D:\phase 4\Day4\ConAppTwo\bin\Debug\net6.0\ConAppTwo.exe
+D:\phase 4\Day4\ConAppTwo\bin\Debug\net6.0\ConAppTwo.deps.json
+D:\phase 4\Day4\ConAppTwo\bin\Debug\net6.0\ConAppTwo.runtimeconfig.json
+D:\phase 4\Day4\ConAppTwo\bin\Debug\net6.0\ConAppTwo.dll
+D:\phase 4\Day4\ConAppTwo\bin\Debug\net6.0\ConAppTwo.pdb
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.AssemblyInfoInputs.cache
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.AssemblyInfo.cs
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.csproj.CoreCompileInputs.cache
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.dll
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\refint\ConAppTwo.dll
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.pdb
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ConAppTwo.genruntimeconfig.cache
+D:\phase 4\Day4\ConAppTwo\obj\Debug\net6.0\ref\ConAppTwo.dll
